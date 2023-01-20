@@ -4,17 +4,20 @@ Public wiki containing practices that can be used in sustainable web design.
 ## About the wiki
 Sustainable Web Practices is a public wiki/library, which means everyone is welcome to contribute. It's a knowledge database containing information about general tips and practices that can be used to make the internet more sustainable.
 
-The free wiki can be seen on [https://sustainablewww.org/wiki](Sustainable WWW). 
+The free wiki can be seen on [Sustainable WWW](https://sustainablewww.org/wiki). 
 
 ## How to contribute
 Everyone who wishes is allowed to contribute to the Sustainable Web Practices wiki. To become a contributor, you follow the standard protocol of forking the repository.
 
 #### Important: Follow these restrictions.
-**Naming MD files:** Markdown files has to be named using snake-casing   "File_Name_Example.md". You are also restricted to only using letters from the English alphabet. Therefore you cannot use special characters or letters.
+##### Naming MD files
+Markdown files has to be named using snake-casing   "File_Name_Example.md". You are also restricted to only using letters from the English alphabet. Therefore you cannot use special characters or letters.
 
-**Language:** This wiki only uses English. Therefore you cannot write markdown files in any other language.
+##### Language 
+This wiki only uses English. Therefore you cannot write markdown files in any other language.
 
-**Directory structure:** You are allowed to create additional directories. But you have to capitalize the first letter in the directory name, and it can only use letters from the English alphabet. It is also advised only to use single-word naming such as "Image" and "Video."
+##### Directory structure 
+You are allowed to create additional directories. But you have to capitalize the first letter in the directory name, and it can only use letters from the English alphabet. It is also advised only to use single-word naming such as "Image" and "Video."
 
 ### MD template
 ```
