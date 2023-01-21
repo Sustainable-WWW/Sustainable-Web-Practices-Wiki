@@ -24,6 +24,8 @@ You are allowed to create additional directories. But you have to capitalize the
 ---
 title: File title
 subtitle: File sub-title.
+metaDescription: This is a meta description used for meta
+metaKeywords: This is a meta keyword list that is comma separated
 ---
 
 ### Lorem ipsum dolor sit amet, consectetur adipiscing elit.
