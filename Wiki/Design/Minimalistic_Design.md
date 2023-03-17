@@ -2,7 +2,7 @@
 title: Minimalistic design
 subtitle: Minimalism is an important part of sustainable web design.
 metaDescription: Minimalism is an important part of sustainable web design, and by combining them you get a much lighter website with a better user experience.
-metaKeywords: Dark mode first approach, Dark mode, Dark mode OLED
+metaKeywords: Minimalistic web design, Minimalistic design, Minimalistic sustainable web design
 lastEdited: 17/March/2023
 ---
 
