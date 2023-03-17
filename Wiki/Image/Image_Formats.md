@@ -3,6 +3,7 @@ title: Image formats
 subtitle: What are they, which are best for the internet, and which are best for the desktop?
 metaDescription: This is a meta description used for meta
 metaKeywords: Image formats for the web, Image formats, JPG, JPEG, PNG, GIF, WEBP, AVIF, AV1, Best image format for the web
+lastEdited: 09/March/2023
 ---
 
 # Image formats

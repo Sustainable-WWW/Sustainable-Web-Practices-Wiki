@@ -3,6 +3,7 @@ title: Background blur
 subtitle: Background blur will reduce file size and add focus.
 metaDescription: Adding a background blur to an image is a great way to both reduce the overall file size and add focus to specific elements.
 metaKeywords: Image background blur, Image gaussian blur, Image processing, Image processing for the web, sustainable web design, sustainable images, reduce file size on image
+lastEdited: 09/March/2023
 ---
 
 # Background blur
