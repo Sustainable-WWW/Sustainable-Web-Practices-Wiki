@@ -3,6 +3,7 @@ title: Image resizing
 subtitle: Reduce the image file size by resizing it for the web
 metaDescription: Image resizing is essential when you want to add images to the internet. In this article you can read more about the upsides to resizing.
 metaKeywords: Image resizing, Image resampling, Image resolution, Image optimization
+lastEdited: 09/March/2023
 ---
 
 Image resizing refers to changing the dimensions of a digital image. This can be done by either increasing or decreasing the number of pixels in the image, which in turn affects the overall size of the image. Image resizing is commonly used to adjust the size of a photo so that it can be shared on social media, printed, or used in different forms such as websites, presentations, and documents.

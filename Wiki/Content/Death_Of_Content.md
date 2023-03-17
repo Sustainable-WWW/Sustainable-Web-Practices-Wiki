@@ -3,6 +3,7 @@ title: Death of content
 subtitle: Our responsibility to maintain and remove data.
 metaDescription: People love to add data to the internet, but we have a responsibility to maintain it and remove it once it is no longer needed.
 metaKeywords: Death of content, Data maintenance
+lastEdited: 09/March/2023
 ---
 
 # Death of content
