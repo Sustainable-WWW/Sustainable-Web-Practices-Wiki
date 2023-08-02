@@ -6,6 +6,8 @@ metaKeywords: Green web hosting, Eco-friendly web hosting, What is green web hos
 lastEdited: 02/August/2023
 ---
 
+# Green web hosting
+
 ## What is Green Web Hosting?
 
 Green web hosting, also known as eco-friendly or sustainable web hosting, refers to the practice of using energy-efficient and renewable energy sources to power data centers that host websites. The goal is to reduce the environmental impact associated with running servers and data centers, which typically consume vast amounts of electricity.
