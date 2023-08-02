@@ -6,6 +6,7 @@ metaKeywords: LCD, Liquid Crystal Display, LCD optimization
 lastEdited: 02/August/2023
 ---
 
+# LCD
 Liquid Crystal Display (LCD) technology has revolutionized the way we interact with modern electronic devices, from smartphones and tablets to computers and televisions. In this article, we will delve into the history of LCD displays, explore their working mechanism, understand why they are widely used in various devices, debunk the myth of dark mode saving energy on LCDs, and explore energy-saving techniques.
 
 ## The History of LCD Displays
