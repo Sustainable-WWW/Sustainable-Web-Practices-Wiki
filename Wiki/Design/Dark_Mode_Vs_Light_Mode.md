@@ -6,6 +6,7 @@ metaKeywords: Dark mode, Light mode
 lastEdited: 02/August/2023
 ---
 
+# Dark mode vs. light mode
 In recent years, the introduction of dark mode has taken the digital world by storm. From social media platforms to productivity apps, many websites and applications now offer this alternative color scheme. Dark mode swaps the traditional white background with a dark one, making it easier on the eyes and offering energy-saving benefits. In this article, we will explore the advantages of dark mode, why it should be the default choice, and its potential to conserve energy on devices with OLED screens.
 
 ## Eye Strain and Visual Comfort
