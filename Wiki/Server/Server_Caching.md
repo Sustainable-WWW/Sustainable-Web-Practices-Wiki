@@ -10,7 +10,7 @@ lastEdited: 14/August/2023
 
 ## What is Server Caching?
 
-Server caching is a technique used to store and serve frequently requested data to users, reducing the need for servers to process the same data repeatedly. When a request is made, the server checks if the data exists in the cache. If found, the cached data is quickly delivered to the user, bypassing the need to retrieve it from the database or generate it on-the-fly. This approach significantly reduces response times, network latency, and server processing power, leading to improved performance and user experience.
+Server caching is a technique used to store and serve frequently requested data to users, reducing the need for servers to process the same data repeatedly. When a request is made, the server checks if the data exists in the cache. If found, the cached data is quickly delivered to the user, bypassing the need to retrieve it from the database or generate it on the fly. This approach significantly reduces response times, network latency, and server processing power, leading to improved performance and user experience.
 
 ## The Sustainable Benefits of Server Caching for APIs
 
@@ -38,4 +38,4 @@ While caching can significantly improve API performance, it's essential to imple
 
 ## Conclusion
 
-In conclusion, server caching is a powerful tool that offers sustainable benefits for API performance and server workload reduction. By efficiently implementing caching techniques and leveraging content delivery networks, developers can significantly improve response times, reduce network bandwidth consumption, and lower energy consumption. As we embrace a more eco-conscious digital era, server caching serves as an essential step towards creating a greener and more efficient online ecosystem. Embracing this sustainable practice not only benefits businesses and users but also contributes to a more environmentally responsible internet.
+In conclusion, server caching is a powerful tool that offers sustainable benefits for API performance and server workload reduction. By efficiently implementing caching techniques and leveraging content delivery networks, developers can significantly improve response times, reduce network bandwidth consumption and lower energy consumption. As we embrace a more eco-conscious digital era, server caching serves as an essential step toward creating a greener and more efficient online ecosystem. Embracing this sustainable practice not only benefits businesses and users but also contributes to a more environmentally responsible internet.
